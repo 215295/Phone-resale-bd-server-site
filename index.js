@@ -12,10 +12,11 @@ const port = process.env.PORT || 5000 ;
 app.use(cors())
 app.use(express.json())
 
+//resaler
+//Ruey6FMlmt8QWRYS
 
-
-   
-const uri = `mongodb+srv://${process.env.DB_USER}:${process.env.DB_PASS}@cluster0.o15tjkl.mongodb.net/?retryWrites=true&w=majority`;
+const uri = `mongodb+srv://${process.env.DB_USER}:${process.env.DB_PASS}@cluster0.bcwedii.mongodb.net/?retryWrites=true&w=majority`;   
+// const uri = `mongodb+srv://${process.env.DB_USER}:${process.env.DB_PASS}@cluster0.o15tjkl.mongodb.net/?retryWrites=true&w=majority`;
 const client = new MongoClient(uri, { useNewUrlParser: true, useUnifiedTopology: true, serverApi: ServerApiVersion.v1 });
 
 function jwtverify(req,res,next){
@@ -48,12 +49,12 @@ async function run(){
 
         try{
           
-              const categoriesCollection = client.db('carResaledb').collection('categories')
-              const allProductCollection = client.db('carResaledb').collection('products')
-              const usersCollection = client.db('carResaledb').collection('users')
-              const bookingsCollection = client.db('carResaledb').collection('bookings')
-              const sellerProductsCollection = client.db('carResaledb').collection('sellerProducts')
-              const paymentsCollection = client.db('carResaledb').collection('payments')
+              const categoriesCollection = client.db('phoneResaledb').collection('categories')
+              const allProductCollection = client.db('phoneResaledb').collection('products')
+              const usersCollection = client.db('phoneResaledb').collection('users')
+              const bookingsCollection = client.db('phoneResaledb').collection('bookings')
+              const sellerProductsCollection = client.db('phoneResaledb').collection('sellerProducts')
+              const paymentsCollection = client.db('phoneResaledb').collection('payments')
            
 
         //  get categories Api
