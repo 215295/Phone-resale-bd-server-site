@@ -1,0 +1,110 @@
+
+[
+    {
+      "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7NBT97gR8uzY7H5SoHTDlDCuxDN8PP0iQNrYsaYmvaQ&s ",
+      "name": "Apple",
+      "category":[
+       { "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf9e9Oa0BMFEvLEsHh4qJESjA81zTWvzk673OQ9LEt&s" ,
+        "productName": "apple 12 maxpro" ,
+        "sellerName": "Atik" ,
+        "resalePrice":"40k" ,
+        "originalPrice":"60k" ,
+        "PostTime":"23 january",
+        "location" : "Bogura" ,
+        "years":1 },
+
+        { "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf9e9Oa0BMFEvLEsHh4qJESjA81zTWvzk673OQ9LEt&s" ,
+        "productName": "apple 12 maxpro" ,
+        "sellerName": "Atik" ,
+        "resalePrice":"40k" ,
+        "originalPrice":"60k" ,
+        "PostTime":"23 january",
+        "location" : "Bogura" ,
+        "years":1 },
+
+        {"img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf9e9Oa0BMFEvLEsHh4qJESjA81zTWvzk673OQ9LEt&s" ,
+        "productName": "apple 12 maxpro" ,
+        "sellerName": "Atik" ,
+        "resalePrice":"40k" ,
+        "originalPrice":"60k" ,
+        "PostTime":"23 january",
+        "location" : "Bogura" ,
+        "years":1} 
+      
+      ]
+    },
+
+    {
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7NBT97gR8uzY7H5SoHTDlDCuxDN8PP0iQNrYsaYmvaQ&s ",
+        "name": "Apple",
+        "category":[
+         { "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf9e9Oa0BMFEvLEsHh4qJESjA81zTWvzk673OQ9LEt&s" ,
+          "productName": "apple 12 maxpro" ,
+          "sellerName": "Atik" ,
+          "resalePrice":"40k" ,
+          "originalPrice":"60k" ,
+          "PostTime":"23 january",
+          "location" : "Bogura" ,
+          "years":1 },
+  
+          { "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf9e9Oa0BMFEvLEsHh4qJESjA81zTWvzk673OQ9LEt&s" ,
+          "productName": "apple 12 maxpro" ,
+          "sellerName": "Atik" ,
+          "resalePrice":"40k" ,
+          "originalPrice":"60k" ,
+          "PostTime":"23 january",
+          "location" : "Bogura" ,
+          "years":1 },
+  
+          {"img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf9e9Oa0BMFEvLEsHh4qJESjA81zTWvzk673OQ9LEt&s" ,
+          "productName": "apple 12 maxpro" ,
+          "sellerName": "Atik" ,
+          "resalePrice":"40k" ,
+          "originalPrice":"60k" ,
+          "PostTime":"23 january",
+          "location" : "Bogura" ,
+          "years":1} 
+        
+        ]
+      },
+
+
+     
+     
+    {
+      "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7NBT97gR8uzY7H5SoHTDlDCuxDN8PP0iQNrYsaYmvaQ&s ",
+      "name": "Apple",
+      "category":[
+       { "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf9e9Oa0BMFEvLEsHh4qJESjA81zTWvzk673OQ9LEt&s" ,
+        "productName": "apple 12 maxpro" ,
+        "sellerName": "Atik" ,
+        "resalePrice":"40k" ,
+        "originalPrice":"60k" ,
+        "PostTime":"23 january",
+        "location" : "Bogura" ,
+        "years":1 },
+
+        { "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf9e9Oa0BMFEvLEsHh4qJESjA81zTWvzk673OQ9LEt&s" ,
+        "productName": "apple 12 maxpro" ,
+        "sellerName": "Atik" ,
+        "resalePrice":"40k" ,
+        "originalPrice":"60k" ,
+        "PostTime":"23 january",
+        "location" : "Bogura" ,
+        "years":1 },
+
+        {"img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf9e9Oa0BMFEvLEsHh4qJESjA81zTWvzk673OQ9LEt&s" ,
+        "productName": "apple 12 maxpro" ,
+        "sellerName": "Atik" ,
+        "resalePrice":"40k" ,
+        "originalPrice":"60k" ,
+        "PostTime":"23 january",
+        "location" : "Bogura" ,
+        "years":1} 
+      
+      ]
+    }
+     
+    
+
+]
