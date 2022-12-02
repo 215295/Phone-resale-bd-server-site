@@ -59,7 +59,7 @@ async function run(){
 
         //  get categories Api
 
-              app.get('/categories',async(req,res)=>{
+              app.get('/products',async(req,res)=>{
 
                       const query = {}
                       const result = await categoriesCollection.find(query).toArray()
@@ -318,10 +318,10 @@ run().catch(console.dir);
 
 app.get('/', async(req,res)=>{
 
-    res.send('Car Resale started ... ')
+    res.send(' Resale started ... ')
 })
 
 app.listen(port , ()=>{
 
-      console.log(`car resale running on  ${port}`)
+      console.log(`phone resale running on  ${port}`)
 })
