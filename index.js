@@ -59,7 +59,7 @@ async function run(){
 
         //  get categories Api
 
-              app.get('/products',async(req,res)=>{
+              app.get('/categories',async(req,res)=>{
 
                       const query = {}
                       const result = await categoriesCollection.find(query).toArray()
