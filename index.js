@@ -89,7 +89,7 @@ async function run(){
                   const result = await usersCollection.insertOne(user);
                   res.send(result)
              })
-             
+
 
              //  get check users role Api
 
@@ -114,7 +114,7 @@ async function run(){
                    res.send({ isSeller: user?.role === 'seller'})
              })
 
-              //  get check seller role Api
+              //  get check admin role Api
 
              app.get('/users/admin/:email',async(req,res)=>{
 

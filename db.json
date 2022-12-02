@@ -34,7 +34,7 @@
 [
     {
       "category":"apple brand",
-      "imge" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf9e9Oa0BMFEvLEsHh4qJESjA81zTWvzk673OQ9LEt&s" ,
+      "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf9e9Oa0BMFEvLEsHh4qJESjA81zTWvzk673OQ9LEt&s" ,
         "productName": "apple 12 maxpro" ,
         "sellerName": "Atik" ,
         "resalePrice":"40k" ,
@@ -46,7 +46,7 @@
         { 
           
           "category":"apple brand",
-        "imge" : "https://images.pexels.com/photos/1294886/pexels-photo-1294886.jpeg?auto=compress&cs=tinysrgb&w=600" ,
+        "img" : "https://images.pexels.com/photos/1294886/pexels-photo-1294886.jpeg?auto=compress&cs=tinysrgb&w=600" ,
         "productName": "apple 12 maxpro" ,
         "sellerName": "Atik" ,
         "resalePrice":"40k" ,
@@ -58,7 +58,7 @@
         {
           
           "category":"apple brand",
-          "imge" : "https://images.pexels.com/photos/9793682/pexels-photo-9793682.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" ,
+          "img" : "https://images.pexels.com/photos/9793682/pexels-photo-9793682.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" ,
         "productName": "apple 12 maxpro" ,
         "sellerName": "Atik" ,
         "resalePrice":"40k" ,
@@ -72,7 +72,7 @@
 
     {
       "category":"Nokia Brand",
-         "imge" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAapH7IL_Kqdyn642IaU8gTCE9FH2PcViBPg&usqp=CAU" ,
+         "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAapH7IL_Kqdyn642IaU8gTCE9FH2PcViBPg&usqp=CAU" ,
           "productName": "apple 12 maxpro" ,
           "sellerName": "Atik" ,
           "resalePrice":"40k" ,
@@ -84,7 +84,7 @@
           { 
             
             "category":"Nokia Brand",
-          "imge" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAapH7IL_Kqdyn642IaU8gTCE9FH2PcViBPg&usqp=CAU" ,
+          "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAapH7IL_Kqdyn642IaU8gTCE9FH2PcViBPg&usqp=CAU" ,
           "productName": "apple 12 maxpro" ,
           "sellerName": "Atik" ,
           "resalePrice":"40k" ,
@@ -96,7 +96,7 @@
           {
             
             "category":"Nokia Brand",
-            "imge" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3m4QYuWYiFvyQ74M7TzD1cWoLvrKxhd2rgA&usqp=CAU" ,
+            "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3m4QYuWYiFvyQ74M7TzD1cWoLvrKxhd2rgA&usqp=CAU" ,
           "productName": "apple 12 maxpro" ,
           "sellerName": "Atik" ,
           "resalePrice":"40k" ,
@@ -112,7 +112,7 @@
      
     {
       "category":"Symphony brand",
-      "imge" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf9e9Oa0BMFEvLEsHh4qJESjA81zTWvzk673OQ9LEt&s" ,
+      "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf9e9Oa0BMFEvLEsHh4qJESjA81zTWvzk673OQ9LEt&s" ,
         "productName": "apple 12 maxpro" ,
         "sellerName": "Atik" ,
         "resalePrice":"40k" ,
@@ -123,7 +123,7 @@
 
         {
           "category":"Symphony brand",
-          "imge" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXazGZAj2PKuV0o41gzDNEHFIBneSEX_B3Cw&usqp=CAU" ,
+          "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXazGZAj2PKuV0o41gzDNEHFIBneSEX_B3Cw&usqp=CAU" ,
         "productName": "apple 12 maxpro" ,
         "sellerName": "Atik" ,
         "resalePrice":"40k" ,
@@ -134,7 +134,7 @@
 
         {
           "category":"Symphony brand",
-          "imge" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoS5aFri8A0v0mcDT2N8i1EPMG_OjSIfrPTg&usqp=CAU" ,
+          "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoS5aFri8A0v0mcDT2N8i1EPMG_OjSIfrPTg&usqp=CAU" ,
         "productName": "apple 12 maxpro" ,
         "sellerName": "Atik" ,
         "resalePrice":"40k" ,
